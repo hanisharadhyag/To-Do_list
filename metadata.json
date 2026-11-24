@@ -1,0 +1,6 @@
+{
+  "name": "Taskline",
+  "description": "Full-stack To-Do List application built with Next.js App Router, TypeScript, Tailwind CSS, and Supabase PostgreSQL + Auth with Row Level Security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
